@@ -1,0 +1,27 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.13.2"
+  },
+  "devDependencies": {
+    "babel-core": "^5.2.9",
+    "babel-loader": "^5.0.0",
+    "css-loader": "^0.12.0",
+    "cssnext": "latest",
+    "postcss-loader": "latest",
+    "react-hot-loader": "^1.2.6",
+    "style-loader": "^0.12.1",
+    "suitcss": "latest",
+    "webpack": "^1.8.11",
+    "webpack-dev-server": "latest"
+  },
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server --content-base build/ --hot"
+  },
+  "author": "",
+  "license": "ISC"
+}
