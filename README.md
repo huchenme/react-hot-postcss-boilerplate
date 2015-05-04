@@ -1,7 +1,9 @@
-react-hot-postcss-starter-boilerplate
+react-hot-postcss-suitcss-boilerplate
 =====================
 
-The minimal dev environment to enable live-editing React components with PostCSS.
+**THIS IS FOR DEVELOPMENT ONLY**
+
+The minimal dev environment to enable live-editing React components with PostCSS and SUIT CSS.
 
 ### Usage
 
