@@ -7,7 +7,7 @@ The minimal dev environment to enable live-editing React components with PostCSS
 
 ```
 npm install
-npm start
+npm run dev
 open http://localhost:8080
 ```
 
